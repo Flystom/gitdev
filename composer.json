@@ -1,0 +1,15 @@
+{
+    "name": "eleve/github3",
+    "autoload": {
+        "psr-4": {
+            "Eleve\\Github3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florian",
+            "email": "florianchanchus83@gmail.com"
+        }
+    ],
+    "require": {}
+}
