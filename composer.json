@@ -1,0 +1,17 @@
+{
+    "name": "eleve/github4",
+    "autoload": {
+        "psr-4": {
+            "Eleve\\Github4\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Florian",
+            "email": "florianchanchus83@gmail.com"
+        }
+    ],
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
